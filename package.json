@@ -1,0 +1,8 @@
+{
+  "name": "moongoodstone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/adele007fall/moongoodstone.git",
+  "author": "HoSeokMoon <adele007fall@naver.com>",
+  "license": "MIT"
+}
